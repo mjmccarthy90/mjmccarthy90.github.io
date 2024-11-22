@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
+# Header 1
+
+Testing the content on this page. 
+
+## Header 2
+
+Testing content.
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
