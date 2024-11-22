@@ -4,3 +4,9 @@
 
 layout: default
 ---
+
+# Header 1
+
+Testing the theme of this site.**bold** and _italic_.
+
+[Link to About Page](./about.html).
