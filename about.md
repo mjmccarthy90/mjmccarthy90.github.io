@@ -12,7 +12,7 @@ Testing the content on this page.
 
 Testing content.
 
-```js
+```apiblueprint
 gh api --method GET /octocat \
 --header 'Accept: application/vnd.github+json' \
 --header "X-GitHub-Api-Version: 2022-11-28"
