@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Michael J. McCarthy - Technical Writer
+title: Michael J. McCarthy
+  Technical Writer
 email: michael.j.mccarthy90@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical Communication PhD. Collaborator, writer, and leader. Passionate about web dev, cloud software, and 
