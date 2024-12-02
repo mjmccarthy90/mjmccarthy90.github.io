@@ -6,7 +6,7 @@ permalink: /pages/about
 
 # Header 1
 
-Testing the content on this page. 
+Testing the content on this page subfolder and stuff. 
 
 ## Header 2
 
