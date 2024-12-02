@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# Header 1
+# Professional Profile
 
-Testing the content on this page. 
+![Headshot Pic] (/images/headshot.jpg)Testing the content on this page. 
 
 ## Header 2
 
