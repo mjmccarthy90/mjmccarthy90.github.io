@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /pages/profile
+permalink: /pages/profile/
 ---
 
 # Header 1
