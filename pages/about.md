@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink:/pages/about
+permalink: /pages/about
 ---
 
 # Header 1
