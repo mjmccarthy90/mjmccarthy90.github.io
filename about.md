@@ -6,7 +6,7 @@ permalink: /about/
 
 # Professional Profile
 
-![Headshot Pic] (/assets/images/headshot.jpg)Testing the content on this page. 
+![Headshot Pic]({{ site.baseurl }}/assets/images/headshot.jpg))Testing the content on this page. 
 
 ## Header 2
 
