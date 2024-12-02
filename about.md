@@ -6,7 +6,8 @@ permalink: /about/
 
 # Professional Profile
 
-![image](/assets/images/headshot.jpg) Testing the content on this page. 
+<img src="/assets/images/headshot.jpg" alt="" style= "width: 20%; height: 15%;">
+Testing the content on this page. 
 
 ## Header 2
 
