@@ -44,16 +44,17 @@
         </div>
 
         {{ content }}
-      <ul>
+      
+      </section>
+      <div>
+        <ul>
         {% for setname in site.data.skillsets %}
           <li>    
               {{ setname.skillsets }}    
           </li>
         {% endfor %}
       </ul>
-
-      </section>
-
+      /div>
     </div>
   </body>
 </html>
