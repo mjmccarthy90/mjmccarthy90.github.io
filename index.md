@@ -14,6 +14,14 @@ In my most recent role, I was responsible for architecting and documenting an IT
   
 I am experienced in DITA, XML, HTML, CSS, and React. I have experience using APIs and understand the REST architecture for web development purposes. Further than that, I am skilled in information architecture and working with SMEs to develop accurate user stories to support end users.
 
+<ul>
+{% for setname in site.data.skillsets %}
+  <li>    
+      {{ setname.skillsets }}    
+  </li>
+{% endfor %}
+</ul>
+
 ## Skillsets
 
 |Technical Writing Tools | Content Development    | Software Development & Tools|
