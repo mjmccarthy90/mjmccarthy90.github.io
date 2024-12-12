@@ -27,16 +27,3 @@ I am experienced in DITA, XML, HTML, CSS, and React. I have experience using API
 |DITA & XML Specs        | Brightspace LMS        | Linux Command Line          |
 |Documentation Strategy  | Jekyll & Github Pages  | Git                         |
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-    <div class="col">
-      Column
-    </div>
-  </div>
-</div>
